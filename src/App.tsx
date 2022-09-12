@@ -4,7 +4,7 @@ import { Router } from './Router'
 
 import { GlobalStyle } from './styles/global'
 import { defaultTheme } from './styles/themes/default'
-import { Home } from './Home'
+import { Home as HomeContextExplanation } from './Home'
 
 export function App() {
   return (
@@ -14,6 +14,6 @@ export function App() {
     //   </BrowserRouter>
     //   <GlobalStyle />
     // </ThemeProvider>
-    <Home />
+    <HomeContextExplanation />
   )
 }

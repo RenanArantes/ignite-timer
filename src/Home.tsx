@@ -1,3 +1,6 @@
+//! ! EXPLICACAO SOBRE CONTEXTOS,
+// como criar e usar
+
 import { createContext, useContext, useState } from 'react'
 
 const CyclesContext = createContext({} as any)

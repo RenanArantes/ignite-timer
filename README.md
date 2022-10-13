@@ -2,7 +2,8 @@
   <img src="src/assets/Logo.svg" width="50px" align="center" alt="Ignite Timer logo" />
   <h1 align="center">Ignite Timer</h1>
 </p>
-Ignite Timer é um projeto desenvolvido com React e TypeScript durante o bootcamp Ignite da Rocketseat.
+
+Ignite Timer é um projeto desenvolvido com React e TypeScript durante o bootcamp [Ignite](https://lp.rocketseat.com.br/ignite#trilhas) da Rocketseat.
 A função do Ignite Timer é realizar uma cronômetragem de tempo no estilo Pomodoro.
 
 ### Características do projeto:
